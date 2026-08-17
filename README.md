@@ -42,4 +42,4 @@ No extra dependencies — download and run.
 3. Launch the included setup utility or run the main binary directly.
 
 ## Legal
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
